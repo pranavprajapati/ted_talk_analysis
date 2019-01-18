@@ -5,9 +5,11 @@ This project focuses on deducing the elemental reason why TED talks are consider
 
 ## Key methods
 
-* Sentiment Analysis • Network Analysis
+* Sentiment Analysis 
+* Network Analysis
 * Text Mining
-* Content Similarity • Topic Modelling
+* Content Similarity 
+* Topic Modelling
 * Time Series Modelling
 
 ## Technologies
