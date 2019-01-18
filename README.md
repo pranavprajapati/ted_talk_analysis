@@ -20,6 +20,6 @@ This project focuses on deducing the elemental reason why TED talks are consider
 
 ### 15 page full [report](https://github.com/pranavprajapati/ted_talk_analysis/blob/master/ted_finalreport_pranav.pdf)
 
-## Ppster
+## Poster
 
 ### [This poster](https://github.com/pranavprajapati/ted_talk_analysis/blob/master/poster_project.pdf) was selected among thr two best projects in my class for the annual poster event.
